@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "블로그"
+title                    : "사회적 거리두기"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "부제목"
 name                     : "KMW"
 description              : "사회적 거리두기"
 url                      : "https://dai712.github.io/"
